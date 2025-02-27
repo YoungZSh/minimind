@@ -1,5 +1,6 @@
 /model/__pycache__
 /dataset
 /out
+*.pyc
 
 MiniMind2/
